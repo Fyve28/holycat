@@ -46,8 +46,8 @@ done
 for i in {1..2}; do
 	printf "\n"
 done
-#56
 
+#This is for reference
 #===== SYSTEM =====
 #User:
 #Hostname:
