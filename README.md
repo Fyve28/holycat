@@ -1,5 +1,5 @@
 # holycat
-Fyve28's personal terminal system information dashboard.
+Fyve28's personal Linux system information dashboard.
 ## Preview
 ![](https://i.ibb.co/TDFB8bW3/image.png)
 ## Features
