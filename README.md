@@ -7,7 +7,6 @@ This Bash script will display the user, hostname, OS, kernel alongside hardware,
 (Everything is in the screenshot above.)
 ## Requirements
 Since this has been only tested on Ubuntu in WSL (check Known limitations), those two are obvious required. This script is a Bash script, so Bash is required as well.
-Utils usage: `free`, `lsblk`, `df`, `timedatectl`, `uname`, `uptime`.
 ## Installation
 Inside your terminal, simply use `git clone https://github.com/Fyve28/holycat.git` or `gh repo clone Fyve28/holycat` (if you are using gh).
 Execute the script by `./holycat.sh`.
